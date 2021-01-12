@@ -1,0 +1,2 @@
+python3 newCodeGenerator.py
+sh newCodeGenerator.sh

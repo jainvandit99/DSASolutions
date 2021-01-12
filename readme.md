@@ -15,9 +15,10 @@
 
 ## Problems
 ### Arrays
-1. [Common Element (Google Interview Question) ](/Common%20Element)
-2. [Merge Sorted Arrays](/Merge%20Sorted%20Arrays)
-3. [Contiguous Subarray](/Contiguous%20Subarray)
-4. [Move Zeroes](/Move%20Zeroes)
-5. [Contains Duplicate](/Contains%20Duplicate)
-6. [Rotate Array](/Rotate%20Array)
+1. [Common Element](/Common%20Element)
+1. [Two Sum (Google Interview Question) ](/Two%20Sum)
+1. [Merge Sorted Arrays](/Merge%20Sorted%20Arrays)
+1. [Contiguous Subarray](/Contiguous%20Subarray)
+1. [Move Zeroes](/Move%20Zeroes)
+1. [Contains Duplicate](/Contains%20Duplicate)
+1. [Rotate Array](/Rotate%20Array)
