@@ -13,6 +13,16 @@
     * #### g++: `g++ -std=c++14 <filename>.cpp`
 * View the output by running `./a.out`
 
+### How to write code for new problems
+
+There is a simple script ```newCode.sh``` that will set up a new directory and initialise the ```readme.md``` and ```.cpp``` files for you. 
+
+Run the following code in the root directory of the project and answer the prompt and viola!*
+```
+sh newCode.sh
+``` 
+**Requires python3 to be installed on your system*
+
 ## Problems
 ### Arrays
 1. [Common Element](/Common%20Element)
